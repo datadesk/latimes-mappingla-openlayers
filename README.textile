@@ -1,0 +1,9 @@
+A compressed version of OpenLayers that includes only the code necessary
+for applications at "projects.latimes.com":http://projects.latimes.com. The objective is to reduce overhead
+and speed up the site by cutting out stuff we don't use.
+
+The whole idea is lifted from "the smart people at Development Seed":http://github.com/developmentseed/openlayers_slim.
+
+Built from OpenLayers version 2.9.1
+Last Compile: 2010-05-31
+
