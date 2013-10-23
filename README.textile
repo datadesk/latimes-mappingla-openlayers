@@ -1,3 +1,5 @@
+h1. This library is no longer supported and probably should not be used.
+
 A compressed version of "OpenLayers":http://openlayers.org/ that includes only the code necessary
 for applications at "projects.latimes.com":http://projects.latimes.com. The objective is to reduce overhead
 and speed up the site by cutting out stuff we don't use.
